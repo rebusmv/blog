@@ -35,14 +35,6 @@ namespace Blog
             {
                 endpoints.MapDefaultControllerRoute();
             });
-
-            //app.UseEndpoints(endpoints =>
-            //{
-            //    endpoints.MapGet("/", async context =>
-            //    {
-            //        await context.Response.WriteAsync("Change world2!");
-            //    });
-            //});
         }
     }
 }
