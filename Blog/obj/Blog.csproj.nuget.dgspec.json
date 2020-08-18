@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\vassilyev\\source\\repos\\Blog\\Blog\\Blog.csproj": {}
+    "C:\\Code\\blog\\Blog\\Blog.csproj": {}
   },
   "projects": {
-    "C:\\Users\\vassilyev\\source\\repos\\Blog\\Blog\\Blog.csproj": {
+    "C:\\Code\\blog\\Blog\\Blog.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\vassilyev\\source\\repos\\Blog\\Blog\\Blog.csproj",
+        "projectUniqueName": "C:\\Code\\blog\\Blog\\Blog.csproj",
         "projectName": "Blog",
-        "projectPath": "C:\\Users\\vassilyev\\source\\repos\\Blog\\Blog\\Blog.csproj",
+        "projectPath": "C:\\Code\\blog\\Blog\\Blog.csproj",
         "packagesPath": "C:\\Users\\vassilyev\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\vassilyev\\source\\repos\\Blog\\Blog\\obj\\",
+        "outputPath": "C:\\Code\\blog\\Blog\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\",

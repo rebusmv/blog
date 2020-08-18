@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "UTQybZyxQcQzhI/dT0h5g6GFeNXIP3IJG9qsBOCD1Bio01jGmxCUtstbmBn86xOH3irZv7IAwQqdAhYDeGMdiw==",
+  "dgSpecHash": "AX92S7cVf0AY6iUX4vDYXL1wsFAbPnnZGlVM0/O70OAg4idSd2koPMkJy/7yYvtVFrCPXIsR45eqtcC7WJUIRw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\vassilyev\\source\\repos\\Blog\\Blog\\Blog.csproj",
+  "projectFilePath": "C:\\Code\\blog\\Blog\\Blog.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
