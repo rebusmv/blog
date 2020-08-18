@@ -32,3 +32,4 @@ C:\Users\vassilyev\source\repos\Blog\Blog\obj\Debug\netcoreapp3.1\Blog.RazorTarg
 C:\Users\vassilyev\source\repos\Blog\Blog\obj\Debug\netcoreapp3.1\Blog.Views.pdb
 C:\Users\vassilyev\source\repos\Blog\Blog\obj\Debug\netcoreapp3.1\Blog.csproj.CopyComplete
 C:\Users\vassilyev\source\repos\Blog\Blog\obj\Debug\netcoreapp3.1\Razor\Views\Home\Post.cshtml.g.cs
+C:\Users\vassilyev\source\repos\Blog\Blog\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
