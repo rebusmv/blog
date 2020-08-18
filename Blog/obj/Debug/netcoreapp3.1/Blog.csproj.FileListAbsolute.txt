@@ -7,7 +7,6 @@ C:\Users\vassilyev\source\repos\Blog\Blog\bin\Debug\netcoreapp3.1\Blog.runtimeco
 C:\Users\vassilyev\source\repos\Blog\Blog\bin\Debug\netcoreapp3.1\Blog.runtimeconfig.dev.json
 C:\Users\vassilyev\source\repos\Blog\Blog\bin\Debug\netcoreapp3.1\Blog.dll
 C:\Users\vassilyev\source\repos\Blog\Blog\bin\Debug\netcoreapp3.1\Blog.pdb
-C:\Users\vassilyev\source\repos\Blog\Blog\obj\Debug\netcoreapp3.1\Blog.csprojAssemblyReference.cache
 C:\Users\vassilyev\source\repos\Blog\Blog\obj\Debug\netcoreapp3.1\Blog.csproj.CoreCompileInputs.cache
 C:\Users\vassilyev\source\repos\Blog\Blog\obj\Debug\netcoreapp3.1\Blog.MvcApplicationPartsAssemblyInfo.cache
 C:\Users\vassilyev\source\repos\Blog\Blog\obj\Debug\netcoreapp3.1\Blog.AssemblyInfoInputs.cache
